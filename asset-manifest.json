@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/skyeng-test/static/css/main.1e8d11d1.css",
+    "main.css": "/skyeng-test/static/css/main.2adf7a2a.css",
     "main.js": "/skyeng-test/static/js/main.7ee39555.js",
     "static/media/Rectangle 23 (1).png": "/skyeng-test/static/media/Rectangle 23 (1).6c5153753015dddc95c5.png",
     "static/media/Rectangle 24.png": "/skyeng-test/static/media/Rectangle 24.fcea0a49f5e4e5d5d305.png",
@@ -15,11 +15,11 @@
     "static/media/montserrat-cyrillic-400-normal.woff2": "/skyeng-test/static/media/montserrat-cyrillic-400-normal.e5c5c19c23e370a342c8.woff2",
     "static/media/montserrat-vietnamese-400-normal.woff2": "/skyeng-test/static/media/montserrat-vietnamese-400-normal.8f3f4c99eb0eeb5990f1.woff2",
     "index.html": "/skyeng-test/index.html",
-    "main.1e8d11d1.css.map": "/skyeng-test/static/css/main.1e8d11d1.css.map",
+    "main.2adf7a2a.css.map": "/skyeng-test/static/css/main.2adf7a2a.css.map",
     "main.7ee39555.js.map": "/skyeng-test/static/js/main.7ee39555.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e8d11d1.css",
+    "static/css/main.2adf7a2a.css",
     "static/js/main.7ee39555.js"
   ]
 }
